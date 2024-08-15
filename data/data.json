@@ -1,0 +1,182 @@
+[
+  {
+    "city": "Mumbai",
+    "priceRange": "$5000 - $10000",
+    "starRating": "3 Stars",
+    "propertyType": "Apartment",
+    "beds": 2,
+    "bathrooms": 2,
+    "squareMeters": 80,
+    "imageUrl": "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg"
+  },
+  {
+    "city": "Delhi",
+    "priceRange": "$10000 - $15000",
+    "starRating": "4 Stars",
+    "propertyType": "House",
+    "beds": 3,
+    "bathrooms": 2,
+    "squareMeters": 150,
+    "imageUrl": "https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "city": "Bengaluru",
+    "priceRange": "$15000 - $20000",
+    "starRating": "5 Stars",
+    "propertyType": "Villa",
+    "beds": 4,
+    "bathrooms": 3,
+    "squareMeters": 200,
+    "imageUrl": "https://images.pexels.com/photos/358636/pexels-photo-358636.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "city": "Chennai",
+    "priceRange": "$0 - $5000",
+    "starRating": "2 Stars",
+    "propertyType": "Studio",
+    "beds": 1,
+    "bathrooms": 1,
+    "squareMeters": 45,
+    "imageUrl": "https://images.pexels.com/photos/783745/pexels-photo-783745.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "city": "Hyderabad",
+    "priceRange": "$20000+",
+    "starRating": "5 Stars",
+    "propertyType": "Apartment",
+    "beds": 3,
+    "bathrooms": 3,
+    "squareMeters": 180,
+    "imageUrl": "https://images.pexels.com/photos/1370704/pexels-photo-1370704.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "city": "Kolkata",
+    "priceRange": "$10000 - $15000",
+    "starRating": "3 Stars",
+    "propertyType": "House",
+    "beds": 2,
+    "bathrooms": 1,
+    "squareMeters": 100,
+    "imageUrl": "https://images.pexels.com/photos/1475938/pexels-photo-1475938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "city": "Pune",
+    "priceRange": "$5000 - $10000",
+    "starRating": "4 Stars",
+    "propertyType": "Villa",
+    "beds": 4,
+    "bathrooms": 3,
+    "squareMeters": 220,
+    "imageUrl": "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "city": "Ahmedabad",
+    "priceRange": "$0 - $5000",
+    "starRating": "1 Star",
+    "propertyType": "Studio",
+    "beds": 1,
+    "bathrooms": 1,
+    "squareMeters": 35,
+    "imageUrl": "https://images.pexels.com/photos/280222/pexels-photo-280222.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "city": "Jaipur",
+    "priceRange": "$15000 - $20000",
+    "starRating": "5 Stars",
+    "propertyType": "Apartment",
+    "beds": 3,
+    "bathrooms": 2,
+    "squareMeters": 160,
+    "imageUrl": "https://images.pexels.com/photos/1974596/pexels-photo-1974596.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "city": "Surat",
+    "priceRange": "$10000 - $15000",
+    "starRating": "3 Stars",
+    "propertyType": "House",
+    "beds": 2,
+    "bathrooms": 1,
+    "squareMeters": 120,
+    "imageUrl": "https://images.pexels.com/photos/1797393/pexels-photo-1797393.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "city": "Lucknow",
+    "priceRange": "$20000+",
+    "starRating": "4 Stars",
+    "propertyType": "Villa",
+    "beds": 5,
+    "bathrooms": 4,
+    "squareMeters": 300,
+    "imageUrl": "https://images.pexels.com/photos/2343465/pexels-photo-2343465.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "city": "Kanpur",
+    "priceRange": "$0 - $5000",
+    "starRating": "2 Stars",
+    "propertyType": "Studio",
+    "beds": 1,
+    "bathrooms": 1,
+    "squareMeters": 40,
+    "imageUrl": "https://images.pexels.com/photos/981916/pexels-photo-981916.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "city": "Nagpur",
+    "priceRange": "$5000 - $10000",
+    "starRating": "3 Stars",
+    "propertyType": "Apartment",
+    "beds": 2,
+    "bathrooms": 2,
+    "squareMeters": 90,
+    "imageUrl": "https://images.pexels.com/photos/280229/pexels-photo-280229.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "city": "Indore",
+    "priceRange": "$10000 - $15000",
+    "starRating": "4 Stars",
+    "propertyType": "House",
+    "beds": 3,
+    "bathrooms": 2,
+    "squareMeters": 140,
+    "imageUrl": "https://images.pexels.com/photos/3555615/pexels-photo-3555615.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "city": "Bhopal",
+    "priceRange": "$15000 - $20000",
+    "starRating": "5 Stars",
+    "propertyType": "Villa",
+    "beds": 4,
+    "bathrooms": 3,
+    "squareMeters": 250,
+    "imageUrl": "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg"
+  },
+  {
+    "city": "Vadodara",
+    "priceRange": "$20000+",
+    "starRating": "5 Stars",
+    "propertyType": "Apartment",
+    "beds": 3,
+    "bathrooms": 3,
+    "squareMeters": 180,
+    "imageUrl": "https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "city": "Patna",
+    "priceRange": "$5000 - $10000",
+    "starRating": "3 Stars",
+    "propertyType": "House",
+    "beds": 2,
+    "bathrooms": 1,
+    "squareMeters": 110,
+    "imageUrl": "https://images.pexels.com/photos/358636/pexels-photo-358636.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "city": "Ghaziabad",
+    "priceRange": "$0 - $5000",
+    "starRating": "2 Stars",
+    "propertyType": "Studio",
+    "beds": 1,
+    "bathrooms": 1,
+    "squareMeters": 50,
+    "imageUrl": "https://images.pexels.com/photos/783745/pexels-photo-783745.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  }
+]
